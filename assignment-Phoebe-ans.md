@@ -33,7 +33,7 @@ div:nth-child(6)
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-change the CSS width for .child selector from this: 
+change the CSS width property for the .child class from this: 
 ```
 ```
 .child {

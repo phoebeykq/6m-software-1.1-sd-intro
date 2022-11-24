@@ -15,7 +15,8 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 3. What is the class name of the third element and the content of the css?
 ```
 The class name is "elementThree". 
-
+```
+```
 The CSS content for this element is: 
 • 50px margin on all sides
 • 10px padding on all sides
@@ -33,13 +34,16 @@ div:nth-child(6)
 5. What is the code you use to keep the blue box within the purple?
 ```
 change the CSS width for .child selector from this: 
-
+```
+```
 .child {
     width: 100%; 
 }
-
+```
+```
 to this: 
-
+```
+```
 .child {
     width: 97%; 
 }
